@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/helloTextView"
+    style="@style/MyText"
+    android:layout_gravity="center_vertical"
+    android:gravity="center"
+    android:maxLines="1"
+    android:padding="@dimen/margin8"
+    android:layout_margin="@dimen/margin8"
+    android:text="@string/Hello_World"
+    android:textColor="@color/black"
+    android:textSize="15sp"
+    tools:text="It was a bright cold day in April,
+    and the clocks were striking thirteen." />
+
